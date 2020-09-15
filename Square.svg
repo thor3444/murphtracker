@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29" height="29" viewBox="0 0 29 29">
+  <defs>
+    <clipPath id="clip-Square">
+      <rect width="29" height="29"/>
+    </clipPath>
+  </defs>
+  <g id="Square" clip-path="url(#clip-Square)">
+    <g id="layer1" transform="translate(-56.624 -137.427)">
+      <g id="text833" transform="translate(56.312 136.713)">
+        <path id="rect862" d="M56.312,137.024v29.818H86.13V137.024Zm3.217,8.179,6.122,5.291,6.061-5.291v12.774H69.129v-7.024l-3.482,3.587-3.534-3.587v7.024H59.529Zm14.146,0h9.237v3.19H79.629v9.583H76.978v-9.583h-3.3Z" transform="translate(-56.312 -136.62)" fill="#d63434"/>
+      </g>
+    </g>
+  </g>
+</svg>

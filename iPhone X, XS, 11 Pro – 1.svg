@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-iPhone_X_XS_11_Pro_1">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_11_Pro_1" data-name="iPhone X, XS, 11 Pro – 1" clip-path="url(#clip-iPhone_X_XS_11_Pro_1)">
+    <rect width="375" height="812" fill="#202020"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="354" height="1" transform="translate(10 453)" fill="#d63434" opacity="0.2"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="354" height="1" transform="translate(11 523)" fill="#d63434" opacity="0.2"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="354" height="1" transform="translate(10 488)" fill="#d63434" opacity="0.2"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="354" height="1" transform="translate(11 558)" fill="#d63434" opacity="0.2"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="354" height="1" transform="translate(11 593)" fill="#d63434" opacity="0.2"/>
+    <g id="layer1" transform="translate(-46.624 -122.427)">
+      <g id="text833" transform="translate(56.312 136.713)">
+        <path id="rect862" d="M56.312,137.024v29.818H86.13V137.024Zm3.217,8.179,6.122,5.291,6.061-5.291v12.774H69.129v-7.024l-3.482,3.587-3.534-3.587v7.024H59.529Zm14.146,0h9.237v3.19H79.629v9.583H76.978v-9.583h-3.3Z" transform="translate(-56.312 -136.62)" fill="#d63434"/>
+        <path id="Path_1" data-name="Path 1" d="M9.413,0H7.388V-5.446q0-.882.076-1.949H7.414a9.589,9.589,0,0,1-.286,1.206L5,0H3.319L1.148-6.125A11.92,11.92,0,0,1,.863-7.4H.806Q.888-6.049.888-5.034V0H-.959V-9.1h3l1.86,5.4a7.6,7.6,0,0,1,.324,1.3h.038A13.1,13.1,0,0,1,4.627-3.72L6.487-9.1H9.413Zm8.049,0h-2V-.99h-.032A2.268,2.268,0,0,1,13.444.159q-2.26,0-2.26-2.736V-6.5h2v3.745q0,1.377,1.092,1.377a1.08,1.08,0,0,0,.863-.378,1.523,1.523,0,0,0,.324-1.025V-6.5h2Zm5.929-4.691a1.74,1.74,0,0,0-.844-.2,1.216,1.216,0,0,0-1.022.479,2.091,2.091,0,0,0-.368,1.3V0H19.15V-6.5h2.006v1.206h.025A1.735,1.735,0,0,1,22.9-6.614a1.292,1.292,0,0,1,.5.076ZM26.355-.755H26.33V2.99H24.324V-6.5H26.33v.978h.025a2.358,2.358,0,0,1,2.088-1.136,2.35,2.35,0,0,1,1.952.866,3.689,3.689,0,0,1,.689,2.358,4,4,0,0,1-.8,2.609,2.618,2.618,0,0,1-2.136.984A2.024,2.024,0,0,1,26.355-.755ZM26.3-3.421V-2.9a1.655,1.655,0,0,0,.355,1.1,1.157,1.157,0,0,0,.933.425,1.23,1.23,0,0,0,1.063-.53,2.559,2.559,0,0,0,.378-1.5q0-1.714-1.333-1.714a1.252,1.252,0,0,0-1.006.467A1.861,1.861,0,0,0,26.3-3.421ZM38.625,0h-2V-3.694q0-1.428-1.041-1.428a1.066,1.066,0,0,0-.863.4,1.542,1.542,0,0,0-.33,1.016V0H32.385V-9.623h2.006v4.088h.025a2.279,2.279,0,0,1,2-1.124q2.209,0,2.209,2.666ZM5.433,7.567h-2.6V15H.78V7.567H-1.8V5.9H5.433Zm4.291,2.742a1.74,1.74,0,0,0-.844-.2,1.216,1.216,0,0,0-1.022.479,2.091,2.091,0,0,0-.368,1.3V15H5.484V8.5H7.49V9.706h.025a1.735,1.735,0,0,1,1.714-1.32,1.292,1.292,0,0,1,.5.076ZM16.065,15h-1.9v-.933h-.025a2.118,2.118,0,0,1-1.936,1.092,2.025,2.025,0,0,1-1.489-.536,1.922,1.922,0,0,1-.543-1.431q0-1.892,2.241-2.184l1.765-.235q0-1.066-1.155-1.066a3.943,3.943,0,0,0-2.209.692V8.887a4.97,4.97,0,0,1,1.146-.381,6.023,6.023,0,0,1,1.323-.165,2.455,2.455,0,0,1,2.78,2.774ZM14.18,12.359v-.438L13,12.074q-.978.127-.978.882a.729.729,0,0,0,.238.562.915.915,0,0,0,.644.219,1.188,1.188,0,0,0,.92-.39A1.41,1.41,0,0,0,14.18,12.359Zm8.4,2.406a3.966,3.966,0,0,1-1.961.394,3.317,3.317,0,0,1-2.425-.908,3.135,3.135,0,0,1-.927-2.342A3.454,3.454,0,0,1,18.259,9.3a3.671,3.671,0,0,1,2.656-.955,3.409,3.409,0,0,1,1.663.3v1.7a2.287,2.287,0,0,0-1.4-.47,1.848,1.848,0,0,0-1.368.5,1.883,1.883,0,0,0-.5,1.393,1.852,1.852,0,0,0,.482,1.355,1.773,1.773,0,0,0,1.327.492,2.647,2.647,0,0,0,1.466-.47ZM30.4,15H28l-2.076-3.225H25.9V15H23.892V5.377H25.9V11.5h.025l1.936-3h2.38l-2.33,3.053Zm6.411-2.679h-4.24q.1,1.416,1.784,1.416a3.482,3.482,0,0,0,1.885-.508v1.447a4.953,4.953,0,0,1-2.342.482,3.3,3.3,0,0,1-2.444-.873,3.3,3.3,0,0,1-.87-2.434,3.478,3.478,0,0,1,.939-2.564,3.13,3.13,0,0,1,2.311-.946,2.841,2.841,0,0,1,2.2.844,3.251,3.251,0,0,1,.778,2.292Zm-1.86-1.231q0-1.4-1.13-1.4a1.079,1.079,0,0,0-.835.4,1.815,1.815,0,0,0-.428,1Zm7.293-.781a1.74,1.74,0,0,0-.844-.2,1.216,1.216,0,0,0-1.022.479,2.091,2.091,0,0,0-.368,1.3V15H38.009V8.5h2.006V9.706h.025a1.735,1.735,0,0,1,1.714-1.32,1.292,1.292,0,0,1,.5.076Z" transform="translate(36.312 12.714)" fill="#d63434"/>
+      </g>
+    </g>
+    <text id="Leaderboard" transform="translate(141 366)" fill="#e3e3e3" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Leaderboard</tspan></text>
+    <text id="John_S." data-name="John S." transform="translate(54 443)" fill="#e3e3e3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">John S.</tspan></text>
+    <text id="John_S.-2" data-name="John S." transform="translate(55 615)" fill="#e3e3e3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">John S.</tspan></text>
+    <text id="Sam_A." data-name="Sam A." transform="translate(55 513)" fill="#e3e3e3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Sam A.</tspan></text>
+    <text id="Tyler_H." data-name="Tyler H." transform="translate(54 478)" fill="#e3e3e3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Tyler H.</tspan></text>
+    <text id="Tyler_H.-2" data-name="Tyler H." transform="translate(55 548)" fill="#e3e3e3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Tyler H.</tspan></text>
+    <text id="Emma_J." data-name="Emma J." transform="translate(55 583)" fill="#e3e3e3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Emma J.</tspan></text>
+    <text id="_1st" data-name="1st" transform="translate(20 443)" fill="#d63434" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">1</tspan><tspan y="0" font-size="7.583" baseline-shift="4.332900027028696">st</tspan></text>
+    <text id="_6th" data-name="6th" transform="translate(21 615)" fill="#d63434" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">6</tspan><tspan y="0" font-size="7.583" baseline-shift="4.332900027028696">th</tspan></text>
+    <text id="_3rd" data-name="3rd" transform="translate(21 513)" fill="#d63434" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">3</tspan><tspan y="0" font-size="7.583" baseline-shift="4.332900027028696">rd</tspan></text>
+    <text id="_2nd" data-name="2nd" transform="translate(20 478)" fill="#d63434" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">2</tspan><tspan y="0" font-size="7.583" baseline-shift="4.332900027028696">nd</tspan></text>
+    <text id="_4th" data-name="4th" transform="translate(21 548)" fill="#d63434" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">4</tspan><tspan y="0" font-size="7.583" baseline-shift="4.332900027028696">th</tspan></text>
+    <text id="_5th" data-name="5th" transform="translate(21 583)" fill="#d63434" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">5</tspan><tspan y="0" font-size="7.583" baseline-shift="4.332900027028696">th</tspan></text>
+    <text id="_43:23.23" data-name="43:23.23" transform="translate(306 443)" fill="#e3e3e3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">43:23.23</tspan></text>
+    <text id="_43:23.23-2" data-name="43:23.23" transform="translate(307 615)" fill="#e3e3e3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">43:23.23</tspan></text>
+    <text id="_45:12.18" data-name="45:12.18" transform="translate(307 513)" fill="#e3e3e3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">45:12.18</tspan></text>
+    <text id="_43:52.01" data-name="43:52.01" transform="translate(306 478)" fill="#e3e3e3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">43:52.01</tspan></text>
+    <text id="_46:00.46" data-name="46:00.46" transform="translate(307 548)" fill="#e3e3e3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">46:00.46</tspan></text>
+    <text id="_51:33.55" data-name="51:33.55" transform="translate(307 583)" fill="#e3e3e3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">51:33.55</tspan></text>
+    <g id="Group_1" data-name="Group 1" transform="translate(285.714 16.69)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="73" height="26" rx="8" transform="translate(0.286 0.31)" fill="#d63434"/>
+      <text id="Sign_Up" data-name="Sign Up" transform="translate(14.286 17.31)" fill="#202020" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Sign Up</tspan></text>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(136.589 650.659)">
+      <rect id="Rectangle_2-2" data-name="Rectangle 2" width="179" height="36" rx="8" transform="translate(-38.589 2.341)" fill="#d63434"/>
+      <text id="Start_The_Challenge" data-name="Start The Challenge" transform="translate(-21.589 27.341)" fill="#202020" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Start The Challenge</tspan></text>
+    </g>
+    <path id="Icon_awesome-trophy" data-name="Icon awesome-trophy" d="M28.031,3.25H22.75V1.219A1.216,1.216,0,0,0,21.531,0H7.719A1.216,1.216,0,0,0,6.5,1.219V3.25H1.219A1.216,1.216,0,0,0,0,4.469V7.313c0,1.813,1.143,3.677,3.143,5.114a11.9,11.9,0,0,0,5.586,2.118,11.233,11.233,0,0,0,3.458,3.738v3.656H9.75c-1.793,0-3.25,1.051-3.25,2.844v.609A.611.611,0,0,0,7.109,26H22.141a.611.611,0,0,0,.609-.609v-.609c0-1.793-1.457-2.844-3.25-2.844H17.063V18.281a11.233,11.233,0,0,0,3.458-3.738,11.856,11.856,0,0,0,5.586-2.118c2-1.437,3.143-3.3,3.143-5.114V4.469A1.216,1.216,0,0,0,28.031,3.25ZM5.043,9.791A3.735,3.735,0,0,1,3.25,7.313V6.5H6.51a18.239,18.239,0,0,0,.65,4.377A8.184,8.184,0,0,1,5.043,9.791ZM26,7.313a3.9,3.9,0,0,1-1.793,2.478,8.216,8.216,0,0,1-2.123,1.087,18.239,18.239,0,0,0,.65-4.377H26Z" transform="translate(107.625 345)" fill="#e3e3e3"/>
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="375" height="309" fill="#d63434" opacity="0.08"/>
+    <text id="Do_You_Have_What_It_Takes_" data-name="Do You Have What It Takes?" transform="translate(83 104)" fill="#e3e3e3" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Do You Have What It Takes?</tspan></text>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(117 126)" fill="none" stroke="#d63434" stroke-width="2">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(117 157)" fill="none" stroke="#d63434" stroke-width="2">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7" fill="none"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(117 219)" fill="none" stroke="#d63434" stroke-width="2">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7" fill="none"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(117 188)" fill="none" stroke="#d63434" stroke-width="2">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7" fill="none"/>
+    </g>
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(117 250)" fill="none" stroke="#d63434" stroke-width="2">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7" fill="none"/>
+    </g>
+    <text id="_1_Mile_Run" data-name="1 Mile Run" transform="translate(153 139)" fill="#e3e3e3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1 Mile Run</tspan></text>
+    <text id="_100_Pull_Ups" data-name="100 Pull Ups" transform="translate(155 171)" fill="#e3e3e3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">100 Pull Ups</tspan></text>
+    <text id="_300_Squats" data-name="300 Squats" transform="translate(155 233)" fill="#e3e3e3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">300 Squats</tspan></text>
+    <text id="_200_Push_Ups" data-name="200 Push Ups" transform="translate(153 202)" fill="#e3e3e3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">200 Push Ups</tspan></text>
+    <text id="_1_Mile_Run-2" data-name="1 Mile Run" transform="translate(153 264)" fill="#e3e3e3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1 Mile Run</tspan></text>
+    <text id="Challenge_yourself_or_complete_with_others" data-name="Challenge yourself or complete with others" transform="translate(102 387)" fill="#e3e3e3" font-size="9" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Challenge yourself or complete with others</tspan></text>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="2" height="17" transform="translate(124 141)" fill="#d63434"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="2" height="17" transform="translate(124 203)" fill="#d63434"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="2" height="17" transform="translate(124 172)" fill="#d63434"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="2" height="17" transform="translate(124 234)" fill="#d63434"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(202 16.69)">
+      <g id="Group_4" data-name="Group 4">
+        <text id="Sign_In" data-name="Sign In" transform="translate(17 17.31)" fill="#d63434" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Sign In</tspan></text>
+        <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(0 0.31)" fill="none" stroke="#d63434" stroke-width="2">
+          <rect width="72" height="26" rx="8" stroke="none"/>
+          <rect x="1" y="1" width="70" height="24" rx="7" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
